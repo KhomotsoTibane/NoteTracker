@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/StudyCardsApp/static/css/main.0e20ec75.css",
-    "main.js": "/StudyCardsApp/static/js/main.dcd84fd7.js",
+    "main.css": "/StudyCardsApp/static/css/main.802be504.css",
+    "main.js": "/StudyCardsApp/static/js/main.a63c2069.js",
     "static/js/787.99e1b01b.chunk.js": "/StudyCardsApp/static/js/787.99e1b01b.chunk.js",
     "index.html": "/StudyCardsApp/index.html",
-    "main.0e20ec75.css.map": "/StudyCardsApp/static/css/main.0e20ec75.css.map",
-    "main.dcd84fd7.js.map": "/StudyCardsApp/static/js/main.dcd84fd7.js.map",
+    "main.802be504.css.map": "/StudyCardsApp/static/css/main.802be504.css.map",
+    "main.a63c2069.js.map": "/StudyCardsApp/static/js/main.a63c2069.js.map",
     "787.99e1b01b.chunk.js.map": "/StudyCardsApp/static/js/787.99e1b01b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e20ec75.css",
-    "static/js/main.dcd84fd7.js"
+    "static/css/main.802be504.css",
+    "static/js/main.a63c2069.js"
   ]
 }
