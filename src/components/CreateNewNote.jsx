@@ -32,7 +32,7 @@ function CreateNewNote(props) {
   return (
     <div>
         <form className="create-note">
-            <input name="title" onChange={handleNoteInput} value={note.title}placeholder="title"/>
+            <input name="title" onChange={handleNoteInput} value={note.title}placeholder="Title..."/>
             <textarea name="content" onChange={handleNoteInput} value={note.content}placeholder="Write note...." rows="3"/>
             <button onClick={HandleSubmitNote}>
               <AddIcon />
